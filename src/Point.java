@@ -45,7 +45,7 @@ public class Point {
                 return "The coordinate is on an axis";
             }
         } else {
-            if (y == 0)
+            if (y == 0) {
         }
         if (x > 0) {
             if (y > 0) {
